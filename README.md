@@ -15,4 +15,6 @@ Confusion Matrix:
 [[   54    33]
  [ 5945 11173]]
 
-![Naive Oversampling]()
+![Naive Oversampling](https://github.com/tbrech4/Credit-Risk-Analysis-ML/blob/main/Resources/test1classification.png)
+
+
